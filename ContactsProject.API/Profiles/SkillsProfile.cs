@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using ContactsLibrary.API.Entities;
 using ContactsLibrary.API.Models;
-using ContactsProject.API.Helpers;
+using ContactsLibrary.API.Helpers;
 
 namespace ContactsLibrary.API.Profiles
 {

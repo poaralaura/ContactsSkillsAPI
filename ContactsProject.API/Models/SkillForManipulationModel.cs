@@ -1,4 +1,4 @@
-﻿using ContactsProject.API.Helpers;
+﻿using ContactsLibrary.API.Helpers;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 

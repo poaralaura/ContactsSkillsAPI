@@ -5378,11 +5378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CourseLibrary\\CourseLibrary.API\\ContactsProject.API.csproj",
+      "projectUniqueName": "D:\\CourseLibrary\\ContactsProject.API\\ContactsProject.API.csproj",
       "projectName": "ContactsProject.API",
-      "projectPath": "D:\\CourseLibrary\\CourseLibrary.API\\ContactsProject.API.csproj",
+      "projectPath": "D:\\CourseLibrary\\ContactsProject.API\\ContactsProject.API.csproj",
       "packagesPath": "C:\\Users\\laura.poara\\.nuget\\packages\\",
-      "outputPath": "D:\\CourseLibrary\\CourseLibrary.API\\obj\\",
+      "outputPath": "D:\\CourseLibrary\\ContactsProject.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laura.poara\\AppData\\Roaming\\NuGet\\NuGet.Config",

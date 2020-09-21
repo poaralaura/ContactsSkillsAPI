@@ -1,5 +1,5 @@
 ﻿using ContactsLibrary.API.Entities;
-using ContactsProject.API.Helpers;
+using ContactsLibrary.API.Helpers;
 using Microsoft.EntityFrameworkCore;
 using System;
 

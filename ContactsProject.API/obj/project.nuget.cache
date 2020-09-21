@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BAPIt/qSpNEKjJwP5gqum/eBdgX8aBZk3xLu7l14ekaxNXuSUAuRgbeJBTNSDF29zgQGvxicIpXzm5yAyL7zhA==",
+  "dgSpecHash": "RHimBjVz+bnVjugsiP+JgxKb2TNQhrL3YSaiV5D86sUCcCz67KMnUny7I2csqyCGUGxk5hFIbEClqhnNAQYSpA==",
   "success": true,
-  "projectFilePath": "D:\\CourseLibrary\\CourseLibrary.API\\ContactsProject.API.csproj",
+  "projectFilePath": "D:\\CourseLibrary\\ContactsProject.API\\ContactsProject.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laura.poara\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\laura.poara\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

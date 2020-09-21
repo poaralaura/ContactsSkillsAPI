@@ -1,4 +1,4 @@
-﻿namespace ContactsProject.API.Helpers
+﻿namespace ContactsLibrary.API.Helpers
 {
 	public enum SkillLevel
 	{
